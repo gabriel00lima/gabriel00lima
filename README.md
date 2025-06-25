@@ -1,8 +1,14 @@
 <h1 align="center">Gabriel Lima 🚀</h1>
 
 <p align="center">
-  Estagiário em Desenvolvimento de Sistemas na ANAC (Agência Nacional de Aviação Civil)  
+  Estagiário em Desenvolvimento de Sistemas na ANAC (Agência Nacional de Aviação Civil)<br>
   Desenvolvedor Full Stack com experiência em FastAPI, React Native, Java e Angular.
+</p>
+
+<p align="center">
+  <a href="https://github.com/gabriel00lima/lima-lavexpress-python/stargazers">
+    <img src="https://img.shields.io/github/stars/gabriel00lima/lima-lavexpress-python?style=social" alt="GitHub stars">
+  </a>
 </p>
 
 ---
@@ -31,9 +37,9 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔧 [LavExpress App](https://github.com/gabriel00lima/lima-lavexpress-python) – Aplicativo de agendamento de lavagem de carros com FastAPI e React Native
-- 🧼 [FastAPI Backend](https://github.com/gabriel00lima/lima-lavexpress-python/tree/main/pythonProject) – API robusta com agendamentos, autenticação, JWT e mais
-- 🌐 [Frontend Angular](https://github.com/gabriel00lima/lima-lavexpress-python/tree/main/frontend-angular) – Interface moderna em Angular para gerenciamento
+- 🔧 [LavExpress App](https://github.com/gabriel00lima/lima-lavexpress-python) – Aplicativo de agendamento de lavagem de carros com FastAPI e React Native  
+- 🧼 [FastAPI Backend](https://github.com/gabriel00lima/lima-lavexpress-python/tree/main/pythonProject) – API robusta com agendamentos, autenticação, JWT e mais  
+- 🌐 [Frontend Angular](https://github.com/gabriel00lima/lima-lavexpress-python/tree/main/frontend-angular) – Interface moderna em Angular para gerenciamento  
 
 ---
 
