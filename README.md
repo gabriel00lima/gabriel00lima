@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lima000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:bibis.gabriel@icloud.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"></a>
   <a href="https://gabriel00lima.github.io/worlds-2026-analytics/"><img src="https://img.shields.io/badge/Projeto_ao_vivo-Worlds_2026-C89B3C?style=for-the-badge&logo=leagueoflegends&logoColor=white" alt="Worlds 2026"></a>
 </p>
 
@@ -42,7 +42,7 @@ Plataforma para uma organizadora de eventos de futevôlei e vôlei de praia.
 - **Loja online:** carrinho, variação de tamanhos, pagamento via Pix e cartão, estoque automático e tela de gestão de pedidos.
 - **Kanban de conteúdo** mobile-first dentro do admin, usado pelos donos para planejar as redes sociais.
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
+`Next.js` `React` `Supabase` `PostgreSQL`
 
 #### 🚗 [LavExpress](https://github.com/gabriel00lima/lima-lavexpress-python)
 App de agendamento para lava-jato, com app mobile, painel web e backend com autenticação JWT.
@@ -54,8 +54,8 @@ App de agendamento para lava-jato, com app mobile, painel web e backend com aute
 | Área | Tecnologias |
 |---|---|
 | Back-end | Python, FastAPI, Java, REST, JWT |
-| Front-end | Next.js, React, React Native, Angular, JavaScript, TypeScript |
-| Dados | PostgreSQL, Supabase, Alembic, pipelines de ETL |
+| Front-end | Next.js, React, React Native, Angular, JavaScript |
+| Dados | PostgreSQL, Supabase, Alembic, pipelines de dados |
 | DevOps e qualidade | Docker, GitHub Actions, pytest, ruff, mypy, Git |
 
 ---
@@ -90,7 +90,7 @@ Public site plus admin panel for running beach sports tournaments with configura
 Car-wash scheduling app with a mobile app, web dashboard and JWT-authenticated backend (FastAPI, React Native, Angular, Java).
 
 ### 🛠️ Stack
-Python · FastAPI · Java · Next.js · React · React Native · Angular · TypeScript · PostgreSQL · Supabase · Docker · GitHub Actions
+Python · FastAPI · Java · Next.js · React · React Native · Angular · PostgreSQL · Supabase · Docker · GitHub Actions
 
 </details>
 
